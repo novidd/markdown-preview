@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/markdown-previewer/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/markdown-previewer/static/js/main.226b0e15.chunk.js",
-    "main.js.map": "/markdown-previewer/static/js/main.226b0e15.chunk.js.map",
-    "runtime-main.js": "/markdown-previewer/static/js/runtime-main.4fd0b226.js",
-    "runtime-main.js.map": "/markdown-previewer/static/js/runtime-main.4fd0b226.js.map",
-    "static/js/2.1c92c4c5.chunk.js": "/markdown-previewer/static/js/2.1c92c4c5.chunk.js",
-    "static/js/2.1c92c4c5.chunk.js.map": "/markdown-previewer/static/js/2.1c92c4c5.chunk.js.map",
-    "index.html": "/markdown-previewer/index.html",
-    "precache-manifest.c65b14544582810509bf3ea54d3a858f.js": "/markdown-previewer/precache-manifest.c65b14544582810509bf3ea54d3a858f.js",
-    "service-worker.js": "/markdown-previewer/service-worker.js",
-    "static/css/main.d498bfb3.chunk.css.map": "/markdown-previewer/static/css/main.d498bfb3.chunk.css.map",
-    "static/js/2.1c92c4c5.chunk.js.LICENSE.txt": "/markdown-previewer/static/js/2.1c92c4c5.chunk.js.LICENSE.txt"
+    "main.css": "/markdown-preview/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/markdown-preview/static/js/main.75895439.chunk.js",
+    "main.js.map": "/markdown-preview/static/js/main.75895439.chunk.js.map",
+    "runtime-main.js": "/markdown-preview/static/js/runtime-main.6f118a63.js",
+    "runtime-main.js.map": "/markdown-preview/static/js/runtime-main.6f118a63.js.map",
+    "static/js/2.1c92c4c5.chunk.js": "/markdown-preview/static/js/2.1c92c4c5.chunk.js",
+    "static/js/2.1c92c4c5.chunk.js.map": "/markdown-preview/static/js/2.1c92c4c5.chunk.js.map",
+    "index.html": "/markdown-preview/index.html",
+    "precache-manifest.f64115c73fc2f2754777b29fa3269370.js": "/markdown-preview/precache-manifest.f64115c73fc2f2754777b29fa3269370.js",
+    "service-worker.js": "/markdown-preview/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/markdown-preview/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.1c92c4c5.chunk.js.LICENSE.txt": "/markdown-preview/static/js/2.1c92c4c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fd0b226.js",
+    "static/js/runtime-main.6f118a63.js",
     "static/js/2.1c92c4c5.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.226b0e15.chunk.js"
+    "static/js/main.75895439.chunk.js"
   ]
 }
